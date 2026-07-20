@@ -29,6 +29,6 @@ class Average
         averg.getdetails();
         averg.average();
     }
-} 
+}  
     
 
